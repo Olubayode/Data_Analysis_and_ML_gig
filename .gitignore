@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+processed_data.csv
+processed_data_2.csv
+project_task_1_2_data_process.ipynb
+
 # Distribution / packaging
 .Python
 build/
